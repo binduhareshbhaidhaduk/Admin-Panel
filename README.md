@@ -1,4 +1,4 @@
-# 🎬 My Express Admin Panel with SignUp, LogIn, and Profile 📋
+# My Express Admin Panel with SignUp, LogIn, and Profile 📋
 
 This project is a simple admin panel application built using Node.js, Express, Multer, Body-parser, Bootstrap, EJS, and Cookie-parser. 
 It allows users to sign up, log in, and view their profile after authentication.
