@@ -61,8 +61,6 @@ To run this project locally, follow these steps:
 ### 🏠 Home Page
 ![Home]![Screenshot 2024-09-20 185641](https://github.com/user-attachments/assets/c4b1d9ff-eb7e-4503-b483-41886abdd066)
 
-### 🧑‍💼 Profile
-![Profile]![Screenshot 2024-09-20 185657](https://github.com/user-attachments/assets/56419f5b-2562-4793-b5a5-12bae1876cb1)
 
 ## 🚧 TODOs / Future Enhancements
 
